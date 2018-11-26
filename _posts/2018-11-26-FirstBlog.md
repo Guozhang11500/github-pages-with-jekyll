@@ -1,5 +1,7 @@
-# Hello Everyone
-
+---
+title: "My First Great Blog!"
+date: 2018-11-26
+---
 
 This looks great so far!
 
